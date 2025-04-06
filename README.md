@@ -17,4 +17,4 @@ This tool helps you quickly look up sprite atlases in your project and the sprit
 - Right-click any sprite and select **"Open Sprite Editor"** to open the **SpriteEditorWindow**.
 - If no component is selected, the window will display: **"No Component Selected! (Image, SpriteRenderer)"** and show a list of all atlases in the project.
 
-"If this tool doesn’t meet your expectations, feel free to modify it. Have a great day!"
+**"If this tool doesn’t meet your expectations, feel free to modify it. Have a great day!"**
