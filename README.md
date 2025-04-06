@@ -2,6 +2,8 @@
 
 This tool helps you quickly look up sprite atlases in your project and the sprites within them.
 
+![SpriteAtlasView](/Volumes/Expand/UnityProject/Unity-SpriteAtlasView/Image/SpriteAtlasView.jpeg)
+
 **How to use it:**
 
 1. You'll find an **"Open Sprite View Window"** button in the Inspector panel of an **Image Component** or **SpriteRenderer Component**. Click it to open the **SpriteAtlasViewWindow**.
