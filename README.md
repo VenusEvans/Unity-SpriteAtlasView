@@ -2,7 +2,7 @@
 
 This tool helps you quickly look up sprite atlases in your project and the sprites within them.
 
-![SpriteAtlasView](/Volumes/Expand/UnityProject/Unity-SpriteAtlasView/Image/SpriteAtlasView.jpeg)
+![SpriteAtlasView](Image/SpriteAtlasView.jpeg)
 
 **How to use it:**
 
